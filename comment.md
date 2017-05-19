@@ -4,7 +4,7 @@
 
 C++ 相关书籍，如天上繁星，如过江之鲫。广博如四库全书者有之（如 `The C++ Programming Language`、`C++ Primer`），深奥如重山复水者有之（如 `Inside The C++ Object Model`），独沽一味者有之（如 `C++ Programming Style`、`More Effective C++`），独树一帜者有之（如 `The Design and Evolution of C++`），另辟蹊径者亦有之（如 `STL tutorial Reference Guide`）。
 
-我的理想是，以这本薄薄的小书，让即使“只对 C++ 语法有粗浅认识“的读者，仍然能够一步到位“以对象导向的精神来思考程序设计”。我的目标摆在 polymorphism（多态）的运用，而终点前的基础作业，包括必要的 C++ 语法语意（syntax & semantics）、必要的 C++ 对象模型（object model）、必要的 C++ 类型转换（type casting），布置在前数章。
+我的理想是，以这本薄薄的小书，让即使“只对 C++ 语法有粗浅认识“的读者，仍然能够一步到位“以面向对象的精神来思考程序设计”。我的目标摆在 polymorphism（多态）的运用，而终点前的基础作业，包括必要的 C++ 语法语意（syntax & semantics）、必要的 C++ 对象模型（object model）、必要的 C++ 类型转换（type casting），布置在前数章。
 
 在技术观念的演绎过程中，用词的精准非常重要。华邦林昆颖先生和徐逸辉先生，给我许多这方面的宝贵意见。此外，宏碁解翼彰先生与另一位工程师（很遗憾未能得知大名），以及网友陈昆泰先生和黄英典先生也予我指正，使我得以将第一刷中的误失更正过来。
 
