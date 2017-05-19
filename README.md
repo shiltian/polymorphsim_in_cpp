@@ -1,2 +1,5 @@
-# polymorphsim_in_cpp
-Translation of the book "Polymorphsim in C++"
+# 《多态与虚拟》简体中文版
+本项目为侯捷老师的一本 C++
+著作——《多态与虚拟》的简体中文翻译版。
+
+注意：**本翻译尚未获得其本人许可**，但是原版（繁体版）已经获得其本人同意，可以将其上传至网上。
